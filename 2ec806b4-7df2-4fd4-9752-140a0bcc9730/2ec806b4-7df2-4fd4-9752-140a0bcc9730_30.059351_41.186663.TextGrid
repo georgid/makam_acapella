@@ -11,7 +11,7 @@ item []:
         name = "phrases" 
         xmin = 0 
         xmax = 8.273015873015874 
-        intervals: size = 3 
+        intervals: size = 4 
         intervals [1]:
             xmin = 0 
             xmax = 2.7856826897600633 
@@ -22,5 +22,9 @@ item []:
             text = "sine " 
         intervals [3]:
             xmin = 4.177304672147974 
-            xmax = 8.273015873015874 
+            xmax = 8.173015873015874 
             text = "isadpareme" 
+        intervals [4]:
+            xmin = 8.173015873015874 
+            xmax = 8.273015873015874 
+            text = "_SAZ_"

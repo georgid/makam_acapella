@@ -35,7 +35,7 @@ item []:
         intervals [6]:
             xmin = 18.70968662436713 
             xmax = 21.129705215419502 
-            text = "" 
+            text = "_SAZ_" 
     item [2]:
         class = "IntervalTier" 
         name = ".grTruthDuration" 

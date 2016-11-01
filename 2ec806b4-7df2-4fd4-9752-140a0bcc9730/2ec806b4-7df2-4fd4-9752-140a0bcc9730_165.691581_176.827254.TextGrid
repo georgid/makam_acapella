@@ -11,7 +11,7 @@ item []:
         name = "phrases" 
         xmin = 0 
         xmax = 8.57126984126984 
-        intervals: size = 3 
+        intervals: size = 4 
         intervals [1]:
             xmin = 0 
             xmax = 3.0489187151669124 
@@ -22,5 +22,9 @@ item []:
             text = "halimi " 
         intervals [3]:
             xmin = 4.958784247661811 
-            xmax = 8.57126984126984 
+            xmax = 8.56126984126984 
             text = "cananIma" 
+        intervals [4]:
+            xmin = 8.56126984126984 
+            xmax = 8.57126984126984 
+            text = "_SAZ_" 

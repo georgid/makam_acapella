@@ -11,7 +11,7 @@ item []:
         name = "phrases" 
         xmin = 0 
         xmax = 8.62111111111111 
-        intervals: size = 6 
+        intervals: size = 7 
         intervals [1]:
             xmin = 0 
             xmax = 0.11905926515757637 
@@ -34,5 +34,9 @@ item []:
             text = "seviSelim can " 
         intervals [6]:
             xmin = 7.727365078532121 
+            xmax = 8.61111111111111 
+            text = "cana"
+        intervals [7]:
+            xmin = 8.61111111111111 
             xmax = 8.62111111111111 
-            text = "cana" 
+            text = "_SAZ_"  

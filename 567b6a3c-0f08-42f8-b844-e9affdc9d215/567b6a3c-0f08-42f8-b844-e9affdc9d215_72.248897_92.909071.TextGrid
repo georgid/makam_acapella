@@ -49,7 +49,7 @@ item []:
         name = "phrases" 
         xmin = 0 
         xmax = 19.86517006802721 
-        intervals: size = 5 
+        intervals: size = 6 
         intervals [1]:
             xmin = 0 
             xmax = 7.080827312993773 
@@ -68,8 +68,12 @@ item []:
             text = " " 
         intervals [5]:
             xmin = 12.234221086527107 
+            xmax = 19.85517006802721 
+            text = "ağlarım ben halime"
+        intervals [6]:
+            xmin = 19.85517006802721 
             xmax = 19.86517006802721 
-            text = "ağlarım ben halime" 
+            text = "_SAZ_" 
     item [3]:
         class = "IntervalTier" 
         name = "phonemes" 

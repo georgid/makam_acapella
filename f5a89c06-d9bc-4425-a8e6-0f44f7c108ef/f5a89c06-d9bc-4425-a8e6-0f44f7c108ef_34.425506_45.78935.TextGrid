@@ -27,7 +27,7 @@ item []:
         intervals [4]:
             xmin = 8.874051830272172 
             xmax = 11.363854875283447 
-            text = "" 
+            text = "_SAZ_" 
     item [2]:
         class = "IntervalTier" 
         name = "words" 
