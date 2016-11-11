@@ -1,0 +1,474 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 218.234464724 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 218.234464724 
+        intervals: size = 59 
+        intervals [1]:
+            xmin = 0 
+            xmax = 47.355984 
+            text = "" 
+        intervals [2]:
+            xmin = 47.355984 
+            xmax = 54.7526153355 
+            text = "Kimseye etmem" 
+        intervals [3]:
+            xmin = 54.7526153355 
+            xmax = 58.6241006713 
+            text = "şikâyet" 
+        intervals [4]:
+            xmin = 58.6241006713 
+            xmax = 59.6252749819 
+            text = "" 
+        intervals [5]:
+            xmin = 59.6252749819 
+            xmax = 61.94128134477854 
+            text = "ağlarım" 
+        intervals [6]:
+            xmin = 61.94128134477854 
+            xmax = 62.897346938775506 
+            text = " ben " 
+        intervals [7]:
+            xmin = 62.897346938775506 
+            xmax = 66.4001776996 
+            text = "halime" 
+        intervals [8]:
+            xmin = 66.4001776996 
+            xmax = 68.7894987392 
+            text = "_SAZ_" 
+        intervals [9]:
+            xmin = 68.7894987392 
+            xmax = 72.09070294784581 
+            text = "Kimseye" 
+        intervals [10]:
+            xmin = 72.09070294784581 
+            xmax = 76.0775509613 
+            text = " etmem" 
+        intervals [11]:
+            xmin = 76.0775509613 
+            xmax = 80.0900907135 
+            text = "şikâyet" 
+        intervals [12]:
+            xmin = 80.0900907135 
+            xmax = 80.9079642784 
+            text = "" 
+        intervals [13]:
+            xmin = 80.9079642784 
+            xmax = 83.17204081632653 
+            text = "ağlarım" 
+        intervals [14]:
+            xmin = 83.17204081632653 
+            xmax = 84.21317460317461 
+            text = " ben" 
+        intervals [15]:
+            xmin = 84.21317460317461 
+            xmax = 87.3524084458 
+            text = " halime" 
+        intervals [16]:
+            xmin = 87.3524084458 
+            xmax = 90.1470497596 
+            text = "_SAZ_" 
+        intervals [17]:
+            xmin = 90.1470497596 
+            xmax = 93.38480725623583 
+            text = "Titrerim " 
+        intervals [18]:
+            xmin = 93.38480725623583 
+            xmax = 97.11666372395132 
+            text = "mücrim" 
+        intervals [19]:
+            xmin = 97.11666372395132 
+            xmax = 97.7196348682 
+            text = "" 
+        intervals [20]:
+            xmin = 97.7196348682 
+            xmax = 99.76820861678004 
+            text = "gibi" 
+        intervals [21]:
+            xmin = 99.76820861678004 
+            xmax = 104.362541618 
+            text = " baktıkça" 
+        intervals [22]:
+            xmin = 104.362541618 
+            xmax = 108.595337087 
+            text = "istikbalime" 
+        intervals [23]:
+            xmin = 108.595337087 
+            xmax = 111.508614385 
+            text = "_SAZ_" 
+        intervals [24]:
+            xmin = 111.508614385 
+            xmax = 118.5704530824034 
+            text = "Titrerim mücrim" 
+        intervals [25]:
+            xmin = 118.5704530824034 
+            xmax = 119.081199494 
+            text = "" 
+        intervals [26]:
+            xmin = 119.081199494 
+            xmax = 121.10909297052154 
+            text = "gibi " 
+        intervals [27]:
+            xmin = 121.10909297052154 
+            xmax = 125.724106244 
+            text = "baktıkça" 
+        intervals [28]:
+            xmin = 125.724106244 
+            xmax = 129.956901713 
+            text = "istikbalime" 
+        intervals [29]:
+            xmin = 129.956901713 
+            xmax = 132.870179011 
+            text = "_SAZ_" 
+        intervals [30]:
+            xmin = 132.870179011 
+            xmax = 134.7363718820861 
+            text = "perde" 
+        intervals [31]:
+            xmin = 134.7363718820861 
+            xmax = 136.15246594013357 
+            text = " i" 
+        intervals [32]:
+            xmin = 136.15246594013357 
+            xmax = 140.0230240314382 
+            text = "zulmet" 
+        intervals [33]:
+            xmin = 140.0230240314382 
+            xmax = 140.47345594722864 
+            text = "" 
+        intervals [34]:
+            xmin = 140.47345594722864 
+            xmax = 144.483393649 
+            text = "CekilmiS" 
+        intervals [35]:
+            xmin = 144.483393649 
+            xmax = 145.608231609 
+            text = "" 
+        intervals [36]:
+            xmin = 145.608231609 
+            xmax = 147.7701243028074 
+            text = "korkarIm " 
+        intervals [37]:
+            xmin = 147.7701243028074 
+            xmax = 152.004934828 
+            text = "ikbalime" 
+        intervals [38]:
+            xmin = 152.004934828 
+            xmax = 154.519130506 
+            text = "_SAZ_" 
+        intervals [39]:
+            xmin = 154.519130506 
+            xmax = 156.3085714285714 
+            text = "perde " 
+        intervals [40]:
+            xmin = 156.3085714285714 
+            xmax = 157.432899427 
+            text = "i" 
+        intervals [41]:
+            xmin = 157.432899427 
+            xmax = 162.13108604 
+            text = "zulmet" 
+        intervals [42]:
+            xmin = 162.13108604 
+            xmax = 166.43257013361426 
+            text = "çekilmiş" 
+        intervals [43]:
+            xmin = 166.43257013361426 
+            xmax = 167.13840158928588 
+            text = "" 
+        intervals [44]:
+            xmin = 167.13840158928588 
+            xmax = 169.54390022675733 
+            text = "korkarım" 
+        intervals [45]:
+            xmin = 169.54390022675733 
+            xmax = 174.3562594168327 
+            text = " ikbalime" 
+        intervals [46]:
+            xmin = 174.3562594168327 
+            xmax = 175.994303033 
+            text = "_SAZ_" 
+        intervals [47]:
+            xmin = 175.994303033 
+            xmax = 179.35240362811794 
+            text = "Titrerim" 
+        intervals [48]:
+            xmin = 179.35240362811794 
+            xmax = 182.95301587301586 
+            text = " mücrim" 
+        intervals [49]:
+            xmin = 182.95301587301586 
+            xmax = 183.47262149382215 
+            text = "" 
+        intervals [50]:
+            xmin = 183.47262149382215 
+            xmax = 185.51222222222225 
+            text = "gibi " 
+        intervals [51]:
+            xmin = 185.51222222222225 
+            xmax = 189.972118616 
+            text = "baktıkça" 
+        intervals [52]:
+            xmin = 189.972118616 
+            xmax = 195.0755977973723 
+            text = "istikbalime" 
+        intervals [53]:
+            xmin = 195.0755977973723 
+            xmax = 197.31382649233097 
+            text = "_SAZ_" 
+        intervals [54]:
+            xmin = 197.31382649233097 
+            xmax = 200.36004645891379 
+            text = "Titrerim " 
+        intervals [55]:
+            xmin = 200.36004645891379 
+            xmax = 204.0298440861642 
+            text = "mücrim" 
+        intervals [56]:
+            xmin = 204.0298440861642 
+            xmax = 204.433018687 
+            text = "" 
+        intervals [57]:
+            xmin = 204.433018687 
+            xmax = 206.53308390022679 
+            text = "gibi" 
+        intervals [58]:
+            xmin = 206.53308390022679 
+            xmax = 210.906205547 
+            text = " baktıkça" 
+        intervals [59]:
+            xmin = 210.906205547 
+            xmax = 218.234464724 
+            text = "istikbalime" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phrases" 
+        xmin = 0 
+        xmax = 218.234464724 
+        intervals: size = 44 
+        intervals [1]:
+            xmin = 0 
+            xmax = 47.355984 
+            text = "" 
+        intervals [2]:
+            xmin = 47.355984 
+            xmax = 54.7526153355 
+            text = "Kimseye etmem" 
+        intervals [3]:
+            xmin = 54.7526153355 
+            xmax = 58.6241006713 
+            text = "şikâyet" 
+        intervals [4]:
+            xmin = 58.6241006713 
+            xmax = 59.6252749819 
+            text = "" 
+        intervals [5]:
+            xmin = 59.6252749819 
+            xmax = 66.4001776996 
+            text = "ağlarım ben halime" 
+        intervals [6]:
+            xmin = 66.4001776996 
+            xmax = 68.7894987392 
+            text = "_SAZ_" 
+        intervals [7]:
+            xmin = 68.7894987392 
+            xmax = 76.0775509613 
+            text = "Kimseye etmem" 
+        intervals [8]:
+            xmin = 76.0775509613 
+            xmax = 80.0900907135 
+            text = "şikâyet" 
+        intervals [9]:
+            xmin = 80.0900907135 
+            xmax = 80.9079642784 
+            text = "" 
+        intervals [10]:
+            xmin = 80.9079642784 
+            xmax = 87.3524084458 
+            text = "ağlarım ben halime" 
+        intervals [11]:
+            xmin = 87.3524084458 
+            xmax = 90.1470497596 
+            text = "_SAZ_" 
+        intervals [12]:
+            xmin = 90.1470497596 
+            xmax = 96.890514036 
+            text = "Titrerim mücrim" 
+        intervals [13]:
+            xmin = 96.890514036 
+            xmax = 97.7196348682 
+            text = "" 
+        intervals [14]:
+            xmin = 97.7196348682 
+            xmax = 104.362541618 
+            text = "gibi baktıkça" 
+        intervals [15]:
+            xmin = 104.362541618 
+            xmax = 108.595337087 
+            text = "istikbalime" 
+        intervals [16]:
+            xmin = 108.595337087 
+            xmax = 111.508614385 
+            text = "_SAZ_" 
+        intervals [17]:
+            xmin = 111.508614385 
+            xmax = 114.92834467120183 
+            text = "Titrerim" 
+        intervals [18]:
+            xmin = 114.92834467120183 
+            xmax = 118.5704530824034 
+            text = " mücrim" 
+        intervals [19]:
+            xmin = 118.5704530824034 
+            xmax = 119.081199494 
+            text = "" 
+        intervals [20]:
+            xmin = 119.081199494 
+            xmax = 125.724106244 
+            text = "gibi baktıkça" 
+        intervals [21]:
+            xmin = 125.724106244 
+            xmax = 129.956901713 
+            text = "istikbalime" 
+        intervals [22]:
+            xmin = 129.956901713 
+            xmax = 132.870179011 
+            text = "_SAZ_" 
+        intervals [23]:
+            xmin = 132.870179011 
+            xmax = 136.15246594013357 
+            text = "perde i" 
+        intervals [24]:
+            xmin = 136.15246594013357 
+            xmax = 140.0230240314382 
+            text = "zulmet" 
+        intervals [25]:
+            xmin = 140.0230240314382 
+            xmax = 140.47345594722864 
+            text = "" 
+        intervals [26]:
+            xmin = 140.47345594722864 
+            xmax = 144.483393649 
+            text = "CekilmiS" 
+        intervals [27]:
+            xmin = 144.483393649 
+            xmax = 145.608231609 
+            text = "" 
+        intervals [28]:
+            xmin = 145.608231609 
+            xmax = 152.004934828 
+            text = "korkarIm ikbalime" 
+        intervals [29]:
+            xmin = 152.004934828 
+            xmax = 154.519130506 
+            text = "_SAZ_" 
+        intervals [30]:
+            xmin = 154.519130506 
+            xmax = 157.432899427 
+            text = "perde i" 
+        intervals [31]:
+            xmin = 157.432899427 
+            xmax = 162.13108604 
+            text = "zulmet" 
+        intervals [32]:
+            xmin = 162.13108604 
+            xmax = 166.43257013361426 
+            text = "çekilmiş" 
+        intervals [33]:
+            xmin = 166.43257013361426 
+            xmax = 167.13840158928588 
+            text = "" 
+        intervals [34]:
+            xmin = 167.13840158928588 
+            xmax = 174.3562594168327 
+            text = "korkarım ikbalime" 
+        intervals [35]:
+            xmin = 174.3562594168327 
+            xmax = 175.994303033 
+            text = "_SAZ_" 
+        intervals [36]:
+            xmin = 175.994303033 
+            xmax = 182.95301587301586 
+            text = "Titrerim mücrim" 
+        intervals [37]:
+            xmin = 182.95301587301586 
+            xmax = 183.47262149382215 
+            text = "" 
+        intervals [38]:
+            xmin = 183.47262149382215 
+            xmax = 189.972118616 
+            text = "gibi baktıkça" 
+        intervals [39]:
+            xmin = 189.972118616 
+            xmax = 195.0755977973723 
+            text = "istikbalime" 
+        intervals [40]:
+            xmin = 195.0755977973723 
+            xmax = 197.31382649233097 
+            text = "_SAZ_" 
+        intervals [41]:
+            xmin = 197.31382649233097 
+            xmax = 204.0298440861642 
+            text = "Titrerim mücrim" 
+        intervals [42]:
+            xmin = 204.0298440861642 
+            xmax = 204.433018687 
+            text = "" 
+        intervals [43]:
+            xmin = 204.433018687 
+            xmax = 210.906205547 
+            text = "gibi baktıkça" 
+        intervals [44]:
+            xmin = 210.906205547 
+            xmax = 218.234464724 
+            text = "istikbalime" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "line" 
+        xmin = 0 
+        xmax = 218.234464724 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 47.355984 
+            text = "" 
+        intervals [2]:
+            xmin = 47.355984 
+            xmax = 68.7894987392 
+            text = "Kimseye etmemşikâyetağlarım ben halime_SAZ_" 
+        intervals [3]:
+            xmin = 68.7894987392 
+            xmax = 90.1470497596 
+            text = "Kimseye etmemşikâyetağlarım ben halime_SAZ_" 
+        intervals [4]:
+            xmin = 90.1470497596 
+            xmax = 111.508614385 
+            text = "Titrerim mücrimgibi baktıkçaistikbalime_SAZ_" 
+        intervals [5]:
+            xmin = 111.508614385 
+            xmax = 132.870179011 
+            text = "Titrerim mücrimgibi baktıkçaistikbalime_SAZ_" 
+        intervals [6]:
+            xmin = 132.870179011 
+            xmax = 154.519130506 
+            text = "perde izulmetCekilmiSkorkarIm ikbalime_SAZ_" 
+        intervals [7]:
+            xmin = 154.519130506 
+            xmax = 175.994303033 
+            text = "perde izulmetçekilmişkorkarım ikbalime_SAZ_" 
+        intervals [8]:
+            xmin = 175.994303033 
+            xmax = 197.31382649233097 
+            text = "Titrerim mücrimgibi baktıkçaistikbalime_SAZ_" 
+        intervals [9]:
+            xmin = 197.31382649233097 
+            xmax = 218.234464724 
+            text = "Titrerim mücrimgibi baktıkçaistikbalime" 

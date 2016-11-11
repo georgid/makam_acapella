@@ -15,11 +15,11 @@ item []:
         intervals [1]:
             xmin = 0 
             xmax = 1.1457515168187504 
-            text = "" 
+            text = "test" 
         intervals [2]:
             xmin = 1.1457515168187504 
             xmax = 4.726946412452891 
-            text = "kanatIr " 
+            text = "kanatIr" 
         intervals [3]:
             xmin = 4.726946412452891 
             xmax = 10.854147054201928 
@@ -27,12 +27,8 @@ item []:
         intervals [4]:
             xmin = 10.854147054201928 
             xmax = 12.82660205531292 
-            text = " kalan " 
+            text = "kalan" 
         intervals [5]:
             xmin = 12.82660205531292 
             xmax = 19.13829931972789 
             text = "hatIralar" 
-        intervals [6]:
-            xmin = 19.13829931972789 
-            xmax = 19.14829931972789 
-            text = "_SAZ_" 

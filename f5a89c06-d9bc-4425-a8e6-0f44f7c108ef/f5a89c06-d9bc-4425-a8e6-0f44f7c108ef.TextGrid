@@ -1,0 +1,350 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 203.644987955 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "line" 
+        xmin = 0 
+        xmax = 203.644987955 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.22 
+            text = "" 
+        intervals [2]:
+            xmin = 1.22 
+            xmax = 12.310563845474427 
+            text = "_SAZ_bakmIyorCeSmi siyahferyade_SAZ_" 
+        intervals [3]:
+            xmin = 12.310563845474427 
+            xmax = 23.6492120253 
+            text = "bakmIyorCeSmi siyahferyade_SAZ_" 
+        intervals [4]:
+            xmin = 23.6492120253 
+            xmax = 35.12071780867489 
+            text = "yetiS ey gamzeyetiSimdadeyetiS ey gamzeyetiSimdade_SAZ_" 
+        intervals [5]:
+            xmin = 35.12071780867489 
+            xmax = 46.6259637188 
+            text = "" 
+        intervals [6]:
+            xmin = 46.6259637188 
+            xmax = 59.3737188208 
+            text = "gemiyorhançeri ebrudade_SAZ_" 
+        intervals [7]:
+            xmin = 59.3737188208 
+            xmax = 181.46434436738934 
+            text = "" 
+        intervals [8]:
+            xmin = 181.46434436738934 
+            xmax = 192.658285289 
+            text = "yetiS eygamze  yetiSimdade" 
+        intervals [9]:
+            xmin = 192.658285289 
+            xmax = 203.644987955 
+            text = "yetiS eygamze yetiSimdade" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phrases" 
+        xmin = 0 
+        xmax = 203.644987955 
+        intervals: size = 33 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.22 
+            text = "" 
+        intervals [2]:
+            xmin = 1.22 
+            xmax = 1.24 
+            text = "_SAZ_" 
+        intervals [3]:
+            xmin = 1.24 
+            xmax = 3.60219825232 
+            text = "bakmIyor" 
+        intervals [4]:
+            xmin = 3.60219825232 
+            xmax = 5.974036144853203 
+            text = "CeSmi siyah" 
+        intervals [5]:
+            xmin = 5.974036144853203 
+            xmax = 6.324706474222665 
+            text = "" 
+        intervals [6]:
+            xmin = 6.324706474222665 
+            xmax = 11.998217888286213 
+            text = "feryade" 
+        intervals [7]:
+            xmin = 11.998217888286213 
+            xmax = 12.310563845474427 
+            text = "_SAZ_" 
+        intervals [8]:
+            xmin = 12.310563845474427 
+            xmax = 14.428374124617166 
+            text = "bakmIyor" 
+        intervals [9]:
+            xmin = 14.428374124617166 
+            xmax = 17.5571663847 
+            text = "CeSmi siyah" 
+        intervals [10]:
+            xmin = 17.5571663847 
+            xmax = 21.3522029893 
+            text = "feryade" 
+        intervals [11]:
+            xmin = 21.3522029893 
+            xmax = 23.6492120253 
+            text = "_SAZ_" 
+        intervals [12]:
+            xmin = 23.6492120253 
+            xmax = 26.486319052969638 
+            text = "yetiS ey gamze" 
+        intervals [13]:
+            xmin = 26.486319052969638 
+            xmax = 29.08347117986221 
+            text = "yetiS" 
+        intervals [14]:
+            xmin = 29.08347117986221 
+            xmax = 35.12071780867489 
+            text = "imdade" 
+        intervals [15]:
+            xmin = 35.12071780867489 
+            xmax = 37.853052790399325 
+            text = "yetiS ey gamze" 
+        intervals [16]:
+            xmin = 37.853052790399325 
+            xmax = 39.98995010999448 
+            text = "yetiS" 
+        intervals [17]:
+            xmin = 39.98995010999448 
+            xmax = 44.1361606738 
+            text = "imdade" 
+        intervals [18]:
+            xmin = 44.1361606738 
+            xmax = 46.6259637188 
+            text = "_SAZ_" 
+        intervals [19]:
+            xmin = 46.6259637188 
+            xmax = 48.7486297391 
+            text = "gemiyor" 
+        intervals [20]:
+            xmin = 48.7486297391 
+            xmax = 48.95072389805272 
+            text = "" 
+        intervals [21]:
+            xmin = 48.95072389805272 
+            xmax = 53.78027511 
+            text = "hançeri ebru" 
+        intervals [22]:
+            xmin = 53.78027511 
+            xmax = 58.0094597967 
+            text = "dade" 
+        intervals [23]:
+            xmin = 58.0094597967 
+            xmax = 59.3737188208 
+            text = "_SAZ_" 
+        intervals [24]:
+            xmin = 59.3737188208 
+            xmax = 181.46434436738934 
+            text = "" 
+        intervals [25]:
+            xmin = 181.46434436738934 
+            xmax = 182.6314190573221 
+            text = "yetiS ey" 
+        intervals [26]:
+            xmin = 182.6314190573221 
+            xmax = 185.962347726 
+            text = "gamze  yetiS" 
+        intervals [27]:
+            xmin = 185.962347726 
+            xmax = 186.362575486 
+            text = "" 
+        intervals [28]:
+            xmin = 186.362575486 
+            xmax = 192.26821089100733 
+            text = "imdade" 
+        intervals [29]:
+            xmin = 192.26821089100733 
+            xmax = 192.658285289 
+            text = "" 
+        intervals [30]:
+            xmin = 192.658285289 
+            xmax = 193.914978546 
+            text = "yetiS ey" 
+        intervals [31]:
+            xmin = 193.914978546 
+            xmax = 197.44807566035337 
+            text = "gamze yetiS" 
+        intervals [32]:
+            xmin = 197.44807566035337 
+            xmax = 197.69291265 
+            text = "" 
+        intervals [33]:
+            xmin = 197.69291265 
+            xmax = 203.644987955 
+            text = "imdade" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 203.644987955 
+        intervals: size = 39 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.22 
+            text = "" 
+        intervals [2]:
+            xmin = 1.22 
+            xmax = 3.60219825232 
+            text = "bakmIyor" 
+        intervals [3]:
+            xmin = 3.60219825232 
+            xmax = 4.669980857510518 
+            text = "CeSmi" 
+        intervals [4]:
+            xmin = 4.669980857510518 
+            xmax = 5.974036144853203 
+            text = "siyah" 
+        intervals [5]:
+            xmin = 5.974036144853203 
+            xmax = 6.324706474222665 
+            text = "" 
+        intervals [6]:
+            xmin = 6.324706474222665 
+            xmax = 11.998217888286213 
+            text = "feryade" 
+        intervals [7]:
+            xmin = 11.998217888286213 
+            xmax = 12.310563845474427 
+            text = "_SAZ_" 
+        intervals [8]:
+            xmin = 12.310563845474427 
+            xmax = 14.428374124617166 
+            text = "bakmIyor" 
+        intervals [9]:
+            xmin = 14.428374124617166 
+            xmax = 15.79326530612245 
+            text = "CeSmi" 
+        intervals [10]:
+            xmin = 15.79326530612245 
+            xmax = 17.5571663847 
+            text = "siyah" 
+        intervals [11]:
+            xmin = 17.5571663847 
+            xmax = 21.3522029893 
+            text = "feryade" 
+        intervals [12]:
+            xmin = 21.3522029893 
+            xmax = 23.6492120253 
+            text = "" 
+        intervals [13]:
+            xmin = 23.6492120253 
+            xmax = 24.875321886696927 
+            text = "yetiS ey" 
+        intervals [14]:
+            xmin = 24.875321886696927 
+            xmax = 26.486319052969638 
+            text = "gamze" 
+        intervals [15]:
+            xmin = 26.486319052969638 
+            xmax = 29.08347117986221 
+            text = "yetiS" 
+        intervals [16]:
+            xmin = 29.08347117986221 
+            xmax = 35.12071780867489 
+            text = "imdade" 
+        intervals [17]:
+            xmin = 35.12071780867489 
+            xmax = 36.285994756029545 
+            text = "yetiS ey" 
+        intervals [18]:
+            xmin = 36.285994756029545 
+            xmax = 37.853052790399325 
+            text = "gamze" 
+        intervals [19]:
+            xmin = 37.853052790399325 
+            xmax = 39.98995010999448 
+            text = "yetiS" 
+        intervals [20]:
+            xmin = 39.98995010999448 
+            xmax = 44.1361606738 
+            text = "imdade" 
+        intervals [21]:
+            xmin = 44.1361606738 
+            xmax = 46.6259637188 
+            text = "_SAZ_" 
+        intervals [22]:
+            xmin = 46.6259637188 
+            xmax = 48.7486297391 
+            text = "gemiyor" 
+        intervals [23]:
+            xmin = 48.7486297391 
+            xmax = 48.95072389805272 
+            text = "" 
+        intervals [24]:
+            xmin = 48.95072389805272 
+            xmax = 50.78921673716944 
+            text = "hançeri" 
+        intervals [25]:
+            xmin = 50.78921673716944 
+            xmax = 53.78027511 
+            text = "ebru" 
+        intervals [26]:
+            xmin = 53.78027511 
+            xmax = 58.0094597967 
+            text = "dade" 
+        intervals [27]:
+            xmin = 58.0094597967 
+            xmax = 59.3737188208 
+            text = "_SAZ_" 
+        intervals [28]:
+            xmin = 59.3737188208 
+            xmax = 181.46434436738934 
+            text = "" 
+        intervals [29]:
+            xmin = 181.46434436738934 
+            xmax = 182.6314190573221 
+            text = "yetiS ey" 
+        intervals [30]:
+            xmin = 182.6314190573221 
+            xmax = 184.186337041 
+            text = "gamze" 
+        intervals [31]:
+            xmin = 184.186337041 
+            xmax = 185.962347726 
+            text = "yetiS" 
+        intervals [32]:
+            xmin = 185.962347726 
+            xmax = 186.362575486 
+            text = "" 
+        intervals [33]:
+            xmin = 186.362575486 
+            xmax = 192.26821089100733 
+            text = "imdade" 
+        intervals [34]:
+            xmin = 192.26821089100733 
+            xmax = 192.658285289 
+            text = "" 
+        intervals [35]:
+            xmin = 192.658285289 
+            xmax = 193.914978546 
+            text = "yetiS ey" 
+        intervals [36]:
+            xmin = 193.914978546 
+            xmax = 195.521252255 
+            text = "gamze" 
+        intervals [37]:
+            xmin = 195.521252255 
+            xmax = 197.44807566035337 
+            text = "yetiS" 
+        intervals [38]:
+            xmin = 197.44807566035337 
+            xmax = 197.69291265 
+            text = "" 
+        intervals [39]:
+            xmin = 197.69291265 
+            xmax = 203.644987955 
+            text = "imdade" 

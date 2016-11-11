@@ -1,0 +1,498 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 150.478844103 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "line" 
+        xmin = 0 
+        xmax = 150.478844103 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.561089 
+            text = "" 
+        intervals [2]:
+            xmin = 0.561089 
+            xmax = 19.084703563 
+            text = "koklasamsaClarInI_SAZ_bu gece tafecre kadar_SAZ_" 
+        intervals [3]:
+            xmin = 19.084703563 
+            xmax = 37.13574222142966 
+            text = "koklasamsaClarInI_SAZ_bu geceta fecre kadar_SAZ_" 
+        intervals [4]:
+            xmin = 37.13574222142966 
+            xmax = 56.0334969255 
+            text = "acI duysamgOzUnUnrengine dalsamda senin_SAZ_" 
+        intervals [5]:
+            xmin = 56.0334969255 
+            xmax = 74.7835731812 
+            text = "acI duysamgOzUnUnrengine dalsamda senin_SAZ_" 
+        intervals [6]:
+            xmin = 74.7835731812 
+            xmax = 93.3959788387 
+            text = "kanatIrruhumu mazidekalanhatIralar_SAZ_" 
+        intervals [7]:
+            xmin = 93.3959788387 
+            xmax = 112.459065409 
+            text = "kanatIrruhumu mazidekalanhatIralar" 
+        intervals [8]:
+            xmin = 112.459065409 
+            xmax = 131.54775689 
+            text = "doyamam OmrUmeben kalbiniCalsamda senin_SAZ_" 
+        intervals [9]:
+            xmin = 131.54775689 
+            xmax = 150.478844103 
+            text = "doyamamOmrUme benkalbini Calsamda senin" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phrases" 
+        xmin = 0 
+        xmax = 150.478844103 
+        intervals: size = 45 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.561089 
+            text = "" 
+        intervals [2]:
+            xmin = 0.561089 
+            xmax = 4.53468235788 
+            text = "koklasam" 
+        intervals [3]:
+            xmin = 4.53468235788 
+            xmax = 8.30973624537 
+            text = "saClarInI" 
+        intervals [4]:
+            xmin = 8.30973624537 
+            xmax = 10.1001378824 
+            text = "_SAZ_" 
+        intervals [5]:
+            xmin = 10.1001378824 
+            xmax = 13.6937297395 
+            text = "bu gece ta" 
+        intervals [6]:
+            xmin = 13.6937297395 
+            xmax = 17.10811875557269 
+            text = "fecre kadar" 
+        intervals [7]:
+            xmin = 17.10811875557269 
+            xmax = 19.084703563 
+            text = "_SAZ_" 
+        intervals [8]:
+            xmin = 19.084703563 
+            xmax = 22.740056884 
+            text = "koklasam" 
+        intervals [9]:
+            xmin = 22.740056884 
+            xmax = 26.3639103611 
+            text = "saClarInI" 
+        intervals [10]:
+            xmin = 26.3639103611 
+            xmax = 28.1701107304 
+            text = "_SAZ_" 
+        intervals [11]:
+            xmin = 28.1701107304 
+            xmax = 28.620110730400008 
+            text = "bu " 
+        intervals [12]:
+            xmin = 28.620110730400008 
+            xmax = 30.1964478975 
+            text = "gece" 
+        intervals [13]:
+            xmin = 30.1964478975 
+            xmax = 36.1847171179 
+            text = "ta fecre kadar" 
+        intervals [14]:
+            xmin = 36.1847171179 
+            xmax = 37.13574222142966 
+            text = "_SAZ_" 
+        intervals [15]:
+            xmin = 37.13574222142966 
+            xmax = 41.9580104755 
+            text = "acI duysam" 
+        intervals [16]:
+            xmin = 41.9580104755 
+            xmax = 45.5488603352 
+            text = "gOzUnUn" 
+        intervals [17]:
+            xmin = 45.5488603352 
+            xmax = 51.5060940104 
+            text = "rengine dalsam" 
+        intervals [18]:
+            xmin = 51.5060940104 
+            xmax = 54.19871092221819 
+            text = "da senin" 
+        intervals [19]:
+            xmin = 54.19871092221819 
+            xmax = 56.0334969255 
+            text = "_SAZ_" 
+        intervals [20]:
+            xmin = 56.0334969255 
+            xmax = 60.80673931955872 
+            text = "acI duysam" 
+        intervals [21]:
+            xmin = 60.80673931955872 
+            xmax = 64.23979686033562 
+            text = "gOzUnUn" 
+        intervals [22]:
+            xmin = 64.23979686033562 
+            xmax = 64.60348034645902 
+            text = "" 
+        intervals [23]:
+            xmin = 64.60348034645902 
+            xmax = 70.3087504866 
+            text = "rengine dalsam" 
+        intervals [24]:
+            xmin = 70.3087504866 
+            xmax = 72.93737324095336 
+            text = "da senin" 
+        intervals [25]:
+            xmin = 72.93737324095336 
+            xmax = 74.7835731812 
+            text = "_SAZ_" 
+        intervals [26]:
+            xmin = 74.7835731812 
+            xmax = 78.11201187910132 
+            text = "kanatIr" 
+        intervals [27]:
+            xmin = 78.11201187910132 
+            xmax = 84.5287154505 
+            text = "ruhumu mazide" 
+        intervals [28]:
+            xmin = 84.5287154505 
+            xmax = 85.68470696567904 
+            text = "kalan" 
+        intervals [29]:
+            xmin = 85.68470696567904 
+            xmax = 86.1346882281707 
+            text = "" 
+        intervals [30]:
+            xmin = 86.1346882281707 
+            xmax = 91.8172132201 
+            text = "hatIralar" 
+        intervals [31]:
+            xmin = 91.8172132201 
+            xmax = 93.3959788387 
+            text = "_SAZ_" 
+        intervals [32]:
+            xmin = 93.3959788387 
+            xmax = 96.53326336247932 
+            text = "kanatIr" 
+        intervals [33]:
+            xmin = 96.53326336247932 
+            xmax = 103.20308611360676 
+            text = "ruhumu mazide" 
+        intervals [34]:
+            xmin = 103.20308611360676 
+            xmax = 104.52220926666453 
+            text = "kalan" 
+        intervals [35]:
+            xmin = 104.52220926666453 
+            xmax = 110.8772826054096 
+            text = "hatIralar" 
+        intervals [36]:
+            xmin = 110.8772826054096 
+            xmax = 112.459065409 
+            text = "_SAZ_" 
+        intervals [37]:
+            xmin = 112.459065409 
+            xmax = 118.424219128 
+            text = "doyamam OmrUme" 
+        intervals [38]:
+            xmin = 118.424219128 
+            xmax = 123.3220865002512 
+            text = "ben kalbini" 
+        intervals [39]:
+            xmin = 123.3220865002512 
+            xmax = 126.926948099 
+            text = "Calsam" 
+        intervals [40]:
+            xmin = 126.926948099 
+            xmax = 130.06558260475612 
+            text = "da senin" 
+        intervals [41]:
+            xmin = 130.06558260475612 
+            xmax = 131.54775689 
+            text = "_SAZ_" 
+        intervals [42]:
+            xmin = 131.54775689 
+            xmax = 135.447327164 
+            text = "doyamam" 
+        intervals [43]:
+            xmin = 135.447327164 
+            xmax = 140.260179695 
+            text = "OmrUme ben" 
+        intervals [44]:
+            xmin = 140.260179695 
+            xmax = 146.725638215 
+            text = "kalbini Calsam" 
+        intervals [45]:
+            xmin = 146.725638215 
+            xmax = 150.478844103 
+            text = "da senin" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 150.478844103 
+        intervals: size = 64 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.561089 
+            text = "" 
+        intervals [2]:
+            xmin = 0.561089 
+            xmax = 4.53468235788 
+            text = "koklasam" 
+        intervals [3]:
+            xmin = 4.53468235788 
+            xmax = 8.30973624537 
+            text = "saClarInI" 
+        intervals [4]:
+            xmin = 8.30973624537 
+            xmax = 10.1001378824 
+            text = "_SAZ_" 
+        intervals [5]:
+            xmin = 10.1001378824 
+            xmax = 10.550137882400007 
+            text = "bu " 
+        intervals [6]:
+            xmin = 10.550137882400007 
+            xmax = 11.781538834270304 
+            text = "gece " 
+        intervals [7]:
+            xmin = 11.781538834270304 
+            xmax = 12.17814058956916 
+            text = "" 
+        intervals [8]:
+            xmin = 12.17814058956916 
+            xmax = 13.6937297395 
+            text = "ta" 
+        intervals [9]:
+            xmin = 13.6937297395 
+            xmax = 15.445691609977327 
+            text = "fecre " 
+        intervals [10]:
+            xmin = 15.445691609977327 
+            xmax = 17.10811875557269 
+            text = "kadar" 
+        intervals [11]:
+            xmin = 17.10811875557269 
+            xmax = 19.084703563 
+            text = "_SAZ_" 
+        intervals [12]:
+            xmin = 19.084703563 
+            xmax = 22.740056884 
+            text = "koklasam" 
+        intervals [13]:
+            xmin = 22.740056884 
+            xmax = 26.3639103611 
+            text = "saClarInI" 
+        intervals [14]:
+            xmin = 26.3639103611 
+            xmax = 28.1701107304 
+            text = "_SAZ_" 
+        intervals [15]:
+            xmin = 28.1701107304 
+            xmax = 30.1964478975 
+            text = "bu gece" 
+        intervals [16]:
+            xmin = 30.1964478975 
+            xmax = 31.713378684807257 
+            text = "ta" 
+        intervals [17]:
+            xmin = 31.713378684807257 
+            xmax = 33.243922902494326 
+            text = " fecre " 
+        intervals [18]:
+            xmin = 33.243922902494326 
+            xmax = 36.1847171179 
+            text = "kadar" 
+        intervals [19]:
+            xmin = 36.1847171179 
+            xmax = 37.13574222142966 
+            text = "_SAZ_" 
+        intervals [20]:
+            xmin = 37.13574222142966 
+            xmax = 38.158182687362 
+            text = "acI " 
+        intervals [21]:
+            xmin = 38.158182687362 
+            xmax = 41.9580104755 
+            text = "duysam" 
+        intervals [22]:
+            xmin = 41.9580104755 
+            xmax = 45.5488603352 
+            text = "gOzUnUn" 
+        intervals [23]:
+            xmin = 45.5488603352 
+            xmax = 47.99759927746994 
+            text = "rengine" 
+        intervals [24]:
+            xmin = 47.99759927746994 
+            xmax = 51.5060940104 
+            text = " dalsam" 
+        intervals [25]:
+            xmin = 51.5060940104 
+            xmax = 51.96729699041017 
+            text = "da" 
+        intervals [26]:
+            xmin = 51.96729699041017 
+            xmax = 54.19871092221819 
+            text = " senin" 
+        intervals [27]:
+            xmin = 54.19871092221819 
+            xmax = 56.0334969255 
+            text = "_SAZ_" 
+        intervals [28]:
+            xmin = 56.0334969255 
+            xmax = 57.03366921538028 
+            text = "acI" 
+        intervals [29]:
+            xmin = 57.03366921538028 
+            xmax = 60.80673931955872 
+            text = " duysam" 
+        intervals [30]:
+            xmin = 60.80673931955872 
+            xmax = 64.23979686033562 
+            text = "gOzUnUn" 
+        intervals [31]:
+            xmin = 64.23979686033562 
+            xmax = 64.60348034645902 
+            text = "" 
+        intervals [32]:
+            xmin = 64.60348034645902 
+            xmax = 66.74712231660982 
+            text = "rengine" 
+        intervals [33]:
+            xmin = 66.74712231660982 
+            xmax = 70.3087504866 
+            text = " dalsam" 
+        intervals [34]:
+            xmin = 70.3087504866 
+            xmax = 70.89242630385488 
+            text = "da" 
+        intervals [35]:
+            xmin = 70.89242630385488 
+            xmax = 72.93737324095336 
+            text = " senin" 
+        intervals [36]:
+            xmin = 72.93737324095336 
+            xmax = 74.7835731812 
+            text = "_SAZ_" 
+        intervals [37]:
+            xmin = 74.7835731812 
+            xmax = 78.11201187910132 
+            text = "kanatIr" 
+        intervals [38]:
+            xmin = 78.11201187910132 
+            xmax = 80.6518455729851 
+            text = "ruhumu " 
+        intervals [39]:
+            xmin = 80.6518455729851 
+            xmax = 84.5287154505 
+            text = "mazide" 
+        intervals [40]:
+            xmin = 84.5287154505 
+            xmax = 85.68470696567904 
+            text = "kalan" 
+        intervals [41]:
+            xmin = 85.68470696567904 
+            xmax = 86.1346882281707 
+            text = "" 
+        intervals [42]:
+            xmin = 86.1346882281707 
+            xmax = 91.8172132201 
+            text = "hatIralar" 
+        intervals [43]:
+            xmin = 91.8172132201 
+            xmax = 93.3959788387 
+            text = "_SAZ_" 
+        intervals [44]:
+            xmin = 93.3959788387 
+            xmax = 96.53326336247932 
+            text = "kanatIr" 
+        intervals [45]:
+            xmin = 96.53326336247932 
+            xmax = 99.17146703815445 
+            text = "ruhumu " 
+        intervals [46]:
+            xmin = 99.17146703815445 
+            xmax = 103.20308611360676 
+            text = "mazide" 
+        intervals [47]:
+            xmin = 103.20308611360676 
+            xmax = 104.52220926666453 
+            text = "kalan" 
+        intervals [48]:
+            xmin = 104.52220926666453 
+            xmax = 110.8772826054096 
+            text = "hatIralar" 
+        intervals [49]:
+            xmin = 110.8772826054096 
+            xmax = 112.459065409 
+            text = "_SAZ_" 
+        intervals [50]:
+            xmin = 112.459065409 
+            xmax = 116.53503177419685 
+            text = "doyamam " 
+        intervals [51]:
+            xmin = 116.53503177419685 
+            xmax = 118.424219128 
+            text = "OmrUme" 
+        intervals [52]:
+            xmin = 118.424219128 
+            xmax = 121.09683669532663 
+            text = "ben " 
+        intervals [53]:
+            xmin = 121.09683669532663 
+            xmax = 123.3220865002512 
+            text = "kalbini" 
+        intervals [54]:
+            xmin = 123.3220865002512 
+            xmax = 126.926948099 
+            text = "Calsam" 
+        intervals [55]:
+            xmin = 126.926948099 
+            xmax = 127.63691661267778 
+            text = "da" 
+        intervals [56]:
+            xmin = 127.63691661267778 
+            xmax = 130.06558260475612 
+            text = " senin" 
+        intervals [57]:
+            xmin = 130.06558260475612 
+            xmax = 131.54775689 
+            text = "_SAZ_" 
+        intervals [58]:
+            xmin = 131.54775689 
+            xmax = 135.447327164 
+            text = "doyamam" 
+        intervals [59]:
+            xmin = 135.447327164 
+            xmax = 137.63812749690254 
+            text = "OmrUme " 
+        intervals [60]:
+            xmin = 137.63812749690254 
+            xmax = 140.260179695 
+            text = "ben" 
+        intervals [61]:
+            xmin = 140.260179695 
+            xmax = 142.7225116028923 
+            text = "kalbini " 
+        intervals [62]:
+            xmin = 142.7225116028923 
+            xmax = 146.725638215 
+            text = "Calsam" 
+        intervals [63]:
+            xmin = 146.725638215 
+            xmax = 147.5301360544217 
+            text = "da " 
+        intervals [64]:
+            xmin = 147.5301360544217 
+            xmax = 150.478844103 
+            text = "senin" 
