@@ -39,7 +39,7 @@ item []:
         intervals [7]:
             xmin = 9.040882964359513 
             xmax = 10.301133786848073 
-            text = "" 
+            text = "_SAZ_" 
     item [2]:
         class = "IntervalTier" 
         name = "phrases" 
@@ -65,7 +65,7 @@ item []:
         intervals [5]:
             xmin = 9.040882964359513 
             xmax = 10.301133786848073 
-            text = "" 
+            text = "_SAZ_" 
     item [3]:
         class = "IntervalTier" 
         name = "phonemes" 

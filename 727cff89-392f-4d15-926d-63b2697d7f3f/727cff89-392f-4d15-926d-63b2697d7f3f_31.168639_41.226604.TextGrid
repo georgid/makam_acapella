@@ -4,7 +4,7 @@ Object class = "TextGrid"
 xmin = 0 
 xmax = 10.05795918367347 
 tiers? <exists> 
-size = 1 
+size = 3 
 item []: 
     item [1]:
         class = "IntervalTier" 
@@ -29,6 +29,74 @@ item []:
             xmax = 8.750728781315672 
             text = "bu gece" 
         intervals [5]:
+            xmin = 8.750728781315672 
+            xmax = 10.05795918367347 
+            text = "_SAZ_" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 10.05795918367347 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5617655173319364 
+            text = "gel " 
+        intervals [2]:
+            xmin = 0.5617655173319364 
+            xmax = 2.556386102676494 
+            text = "gUzelim" 
+        intervals [3]:
+            xmin = 2.556386102676494 
+            xmax = 4.577079147309678 
+            text = " CamlIcaya" 
+        intervals [4]:
+            xmin = 4.577079147309678 
+            xmax = 5.010609655067342 
+            text = "" 
+        intervals [5]:
+            xmin = 5.010609655067342 
+            xmax = 7.457555862721835 
+            text = "bu " 
+        intervals [6]:
+            xmin = 7.457555862721835 
+            xmax = 8.750728781315672 
+            text = "gece" 
+        intervals [7]:
+            xmin = 8.750728781315672 
+            xmax = 10.05795918367347 
+            text = "_SAZ_" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "phonemes" 
+        xmin = 0 
+        xmax = 10.05795918367347 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5617655173319364 
+            text = "gel " 
+        intervals [2]:
+            xmin = 0.5617655173319364 
+            xmax = 2.556386102676494 
+            text = "gUzelim" 
+        intervals [3]:
+            xmin = 2.556386102676494 
+            xmax = 4.577079147309678 
+            text = " CamlIcaya" 
+        intervals [4]:
+            xmin = 4.577079147309678 
+            xmax = 5.010609655067342 
+            text = "" 
+        intervals [5]:
+            xmin = 5.010609655067342 
+            xmax = 7.457555862721835 
+            text = "bu " 
+        intervals [6]:
+            xmin = 7.457555862721835 
+            xmax = 8.750728781315672 
+            text = "gece" 
+        intervals [7]:
             xmin = 8.750728781315672 
             xmax = 10.05795918367347 
             text = "_SAZ_" 

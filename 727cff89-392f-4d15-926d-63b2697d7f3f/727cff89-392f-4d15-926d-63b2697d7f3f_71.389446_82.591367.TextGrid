@@ -4,7 +4,7 @@ Object class = "TextGrid"
 xmin = 0 
 xmax = 11.201927437641723 
 tiers? <exists> 
-size = 1 
+size = 3 
 item []: 
     item [1]:
         class = "IntervalTier" 
@@ -22,17 +22,85 @@ item []:
             text = "bUlbUllerin" 
         intervals [3]:
             xmin = 3.0353688154355436 
-            xmax = 5.490483555517188 
+            xmax = 5.408646397514466 
             text = " efganInI" 
         intervals [4]:
-            xmin = 5.490483555517188 
-            xmax = 5.84238333492889 
+            xmin = 5.408646397514466 
+            xmax = 5.7605461769261685 
             text = "" 
         intervals [5]:
-            xmin = 5.84238333492889 
-            xmax = 9.385932276446729 
+            xmin = 5.7605461769261685 
+            xmax = 9.57415773985299 
             text = "dinleyelim yanyana" 
         intervals [6]:
-            xmin = 9.385932276446729 
+            xmin = 9.57415773985299 
+            xmax = 11.201927437641723 
+            text = "_SAZ_" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 11.201927437641723 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2529054433430137 
+            text = "" 
+        intervals [2]:
+            xmin = 0.2529054433430137 
+            xmax = 3.0353688154355436 
+            text = "bUlbUllerin" 
+        intervals [3]:
+            xmin = 3.0353688154355436 
+            xmax = 5.408646397514466 
+            text = " efganInI" 
+        intervals [4]:
+            xmin = 5.408646397514466 
+            xmax = 5.7605461769261685 
+            text = "" 
+        intervals [5]:
+            xmin = 5.7605461769261685 
+            xmax = 7.031068054918421 
+            text = "dinleyelim" 
+        intervals [6]:
+            xmin = 7.031068054918421 
+            xmax = 9.57415773985299 
+            text = " yanyana" 
+        intervals [7]:
+            xmin = 9.57415773985299 
+            xmax = 11.201927437641723 
+            text = "_SAZ_" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "phonemes" 
+        xmin = 0 
+        xmax = 11.201927437641723 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2529054433430137 
+            text = "" 
+        intervals [2]:
+            xmin = 0.2529054433430137 
+            xmax = 3.0353688154355436 
+            text = "bUlbUllerin" 
+        intervals [3]:
+            xmin = 3.0353688154355436 
+            xmax = 5.408646397514466 
+            text = " efganInI" 
+        intervals [4]:
+            xmin = 5.408646397514466 
+            xmax = 5.7605461769261685 
+            text = "" 
+        intervals [5]:
+            xmin = 5.7605461769261685 
+            xmax = 7.031068054918421 
+            text = "dinleyelim" 
+        intervals [6]:
+            xmin = 7.031068054918421 
+            xmax = 9.57415773985299 
+            text = " yanyana" 
+        intervals [7]:
+            xmin = 9.57415773985299 
             xmax = 11.201927437641723 
             text = "_SAZ_" 

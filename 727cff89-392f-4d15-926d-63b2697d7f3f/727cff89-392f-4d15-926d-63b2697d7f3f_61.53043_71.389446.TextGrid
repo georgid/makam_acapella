@@ -4,7 +4,7 @@ Object class = "TextGrid"
 xmin = 0 
 xmax = 9.859024943310658 
 tiers? <exists> 
-size = 1 
+size = 3 
 item []: 
     item [1]:
         class = "IntervalTier" 
@@ -29,6 +29,66 @@ item []:
             xmax = 8.368773394099625 
             text = "dinleyelim yanyana" 
         intervals [5]:
+            xmin = 8.368773394099625 
+            xmax = 9.859024943310658 
+            text = "_SAZ_" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 9.859024943310658 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.4842159623991242 
+            text = "bUlbUllerin " 
+        intervals [2]:
+            xmin = 2.4842159623991242 
+            xmax = 4.810668900513275 
+            text = "efganInI " 
+        intervals [3]:
+            xmin = 4.810668900513275 
+            xmax = 5.12758509022542 
+            text = "" 
+        intervals [4]:
+            xmin = 5.12758509022542 
+            xmax = 6.159363366958708 
+            text = "dinleyelim " 
+        intervals [5]:
+            xmin = 6.159363366958708 
+            xmax = 8.368773394099625 
+            text = "yanyana" 
+        intervals [6]:
+            xmin = 8.368773394099625 
+            xmax = 9.859024943310658 
+            text = "_SAZ_" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "phonemes" 
+        xmin = 0 
+        xmax = 9.859024943310658 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.4842159623991242 
+            text = "bUlbUllerin " 
+        intervals [2]:
+            xmin = 2.4842159623991242 
+            xmax = 4.810668900513275 
+            text = "efganInI " 
+        intervals [3]:
+            xmin = 4.810668900513275 
+            xmax = 5.12758509022542 
+            text = "" 
+        intervals [4]:
+            xmin = 5.12758509022542 
+            xmax = 6.159363366958708 
+            text = "dinleyelim " 
+        intervals [5]:
+            xmin = 6.159363366958708 
+            xmax = 8.368773394099625 
+            text = "yanyana" 
+        intervals [6]:
             xmin = 8.368773394099625 
             xmax = 9.859024943310658 
             text = "_SAZ_" 
