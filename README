@@ -1,0 +1,1 @@
+recommended encoding of textGrids is utf-8. When exporting from Praat, do: Praat->Preferences->TextWrtiing Prefs-> utf-8
