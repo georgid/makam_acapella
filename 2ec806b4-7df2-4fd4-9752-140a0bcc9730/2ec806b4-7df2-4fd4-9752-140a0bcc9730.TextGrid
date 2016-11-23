@@ -1,0 +1,546 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = -0 
+xmax = 196.25756448978004 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "line" 
+        xmin = -0 
+        xmax = 196.25756448978004 
+        intervals: size = 18 
+        intervals [1]:
+            xmin = -0 
+            xmax = 21.78634 
+            text = "" 
+        intervals [2]:
+            xmin = 21.78634 
+            xmax = 30.059355873 
+            text = "" 
+        intervals [3]:
+            xmin = 30.059355873 
+            xmax = 41.13960430967992 
+            text = "" 
+        intervals [4]:
+            xmin = 41.13960430967992 
+            xmax = 49.70606789114059 
+            text = "" 
+        intervals [5]:
+            xmin = 49.70606789114059 
+            xmax = 60.57976403626531 
+            text = "" 
+        intervals [6]:
+            xmin = 60.57976403626531 
+            xmax = 69.19840349204762 
+            text = "" 
+        intervals [7]:
+            xmin = 69.19840349204762 
+            xmax = 80.1922246312666 
+            text = "" 
+        intervals [8]:
+            xmin = 80.1922246312666 
+            xmax = 88.39073909295465 
+            text = "" 
+        intervals [9]:
+            xmin = 88.39073909295465 
+            xmax = 98.34385007233026 
+            text = "" 
+        intervals [10]:
+            xmin = 98.34385007233026 
+            xmax = 118.49491142855555 
+            text = "" 
+        intervals [11]:
+            xmin = 118.49491142855555 
+            xmax = 126.84178217685488 
+            text = "" 
+        intervals [12]:
+            xmin = 126.84178217685488 
+            xmax = 137.8686529251542 
+            text = "" 
+        intervals [13]:
+            xmin = 137.8686529251542 
+            xmax = 146.3423490702789 
+            text = "" 
+        intervals [14]:
+            xmin = 146.3423490702789 
+            xmax = 157.29126063490477 
+            text = "" 
+        intervals [15]:
+            xmin = 157.29126063490477 
+            xmax = 165.8625304761746 
+            text = "" 
+        intervals [16]:
+            xmin = 165.8625304761746 
+            xmax = 176.82380031744444 
+            text = "" 
+        intervals [17]:
+            xmin = 176.82380031744444 
+            xmax = 185.29749646256914 
+            text = "" 
+        intervals [18]:
+            xmin = 185.29749646256914 
+            xmax = 196.25756448978004 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phrases" 
+        xmin = 196.25756448978004 
+        xmax = 196.25756448978004 
+        intervals: size = 56 
+        intervals [1]:
+            xmin = -0 
+            xmax = 21.78634 
+            text = "" 
+        intervals [2]:
+            xmin = 21.78634 
+            xmax = 24.5720226898 
+            text = "olmaz ilaC" 
+        intervals [3]:
+            xmin = 24.5720226898 
+            xmax = 25.9636446721 
+            text = "sine" 
+        intervals [4]:
+            xmin = 25.9636446721 
+            xmax = 30.059355873 
+            text = "isadpareme" 
+        intervals [5]:
+            xmin = 30.059355873 
+            xmax = 32.84503856276007 
+            text = "olmaz ilaC" 
+        intervals [6]:
+            xmin = 32.84503856276007 
+            xmax = 34.23666054514798 
+            text = "sine " 
+        intervals [7]:
+            xmin = 34.23666054514798 
+            xmax = 39.126349206349204 
+            text = "isadpareme" 
+        intervals [8]:
+            xmin = 39.126349206349204 
+            xmax = 41.13960430967992 
+            text = "_SAZ_" 
+        intervals [9]:
+            xmin = 41.13960430967992 
+            xmax = 42.730909141869844 
+            text = "Care " 
+        intervals [10]:
+            xmin = 42.730909141869844 
+            xmax = 46.77233489926259 
+            text = "bulunmaz bilirim " 
+        intervals [11]:
+            xmin = 46.77233489926259 
+            xmax = 49.70606789114059 
+            text = "yareme" 
+        intervals [12]:
+            xmin = 49.70606789114059 
+            xmax = 51.05840883367028 
+            text = "Care " 
+        intervals [13]:
+            xmin = 51.05840883367028 
+            xmax = 55.17793476938718 
+            text = "bulunmaz bilirim " 
+        intervals [14]:
+            xmin = 55.17793476938718 
+            xmax = 58.169764036265306 
+            text = "yareme" 
+        intervals [15]:
+            xmin = 58.169764036265306 
+            xmax = 60.57976403626531 
+            text = "_SAZ_" 
+        intervals [16]:
+            xmin = 60.57976403626531 
+            xmax = 62.09660344308204 
+            text = "baksa" 
+        intervals [17]:
+            xmin = 62.09660344308204 
+            xmax = 66.37819672003945 
+            text = " tabiban I cihan" 
+        intervals [18]:
+            xmin = 66.37819672003945 
+            xmax = 69.19840349204762 
+            text = " Careme" 
+        intervals [19]:
+            xmin = 69.19840349204762 
+            xmax = 70.71524289886435 
+            text = "baksa" 
+        intervals [20]:
+            xmin = 70.71524289886435 
+            xmax = 74.99683617582176 
+            text = " tabiban I cihan" 
+        intervals [21]:
+            xmin = 74.99683617582176 
+            xmax = 77.80704294782993 
+            text = " Careme" 
+        intervals [22]:
+            xmin = 77.80704294782993 
+            xmax = 80.1922246312666 
+            text = "_SAZ_" 
+        intervals [23]:
+            xmin = 80.1922246312666 
+            xmax = 81.65319925854217 
+            text = "Care " 
+        intervals [24]:
+            xmin = 81.65319925854217 
+            xmax = 85.77117755164544 
+            text = "bulunmaz bilirim " 
+        intervals [25]:
+            xmin = 85.77117755164544 
+            xmax = 88.39073909295465 
+            text = "yareme" 
+        intervals [26]:
+            xmin = 88.39073909295465 
+            xmax = 89.80634910370075 
+            text = "Care" 
+        intervals [27]:
+            xmin = 89.80634910370075 
+            xmax = 93.95809748048052 
+            text = " bulunmaz bilirim " 
+        intervals [28]:
+            xmin = 93.95809748048052 
+            xmax = 98.34385007233026 
+            text = "yareme" 
+        intervals [29]:
+            xmin = 98.34385007233026 
+            xmax = 118.49491142855555 
+            text = "" 
+        intervals [30]:
+            xmin = 118.49491142855555 
+            xmax = 121.3954067357176 
+            text = "kaste diyor" 
+        intervals [31]:
+            xmin = 121.3954067357176 
+            xmax = 122.6302348246517 
+            text = "tiri" 
+        intervals [32]:
+            xmin = 122.6302348246517 
+            xmax = 126.84178217685488 
+            text = "mUjen canIma" 
+        intervals [33]:
+            xmin = 126.84178217685488 
+            xmax = 129.59745196741355 
+            text = "kaste diyor" 
+        intervals [34]:
+            xmin = 129.59745196741355 
+            xmax = 130.97710557295102 
+            text = "tiri" 
+        intervals [35]:
+            xmin = 130.97710557295102 
+            xmax = 135.1786529251542 
+            text = "mUjen canIma" 
+        intervals [36]:
+            xmin = 135.1786529251542 
+            xmax = 137.8686529251542 
+            text = "_SAZ_" 
+        intervals [37]:
+            xmin = 137.8686529251542 
+            xmax = 139.2776183955498 
+            text = "gOzle " 
+        intervals [38]:
+            xmin = 139.2776183955498 
+            xmax = 143.44236551410987 
+            text = "ri en son girecek" 
+        intervals [39]:
+            xmin = 143.44236551410987 
+            xmax = 146.3423490702789 
+            text = " kanIma" 
+        intervals [40]:
+            xmin = 146.3423490702789 
+            xmax = 149.06557893320579 
+            text = "gOzleri en " 
+        intervals [41]:
+            xmin = 149.06557893320579 
+            xmax = 151.89479385184163 
+            text = "son girecek " 
+        intervals [42]:
+            xmin = 151.89479385184163 
+            xmax = 154.64440600487865 
+            text = "kanIma" 
+        intervals [43]:
+            xmin = 154.64440600487865 
+            xmax = 157.29126063490477 
+            text = "_SAZ_" 
+        intervals [44]:
+            xmin = 157.29126063490477 
+            xmax = 160.34017935007168 
+            text = "Serhedemem " 
+        intervals [45]:
+            xmin = 160.34017935007168 
+            xmax = 162.25004488256658 
+            text = "halimi " 
+        intervals [46]:
+            xmin = 162.25004488256658 
+            xmax = 165.8625304761746 
+            text = "cananIma" 
+        intervals [47]:
+            xmin = 165.8625304761746 
+            xmax = 168.91144919134152 
+            text = "Serhedemem " 
+        intervals [48]:
+            xmin = 168.91144919134152 
+            xmax = 170.82131472383642 
+            text = "halimi " 
+        intervals [49]:
+            xmin = 170.82131472383642 
+            xmax = 174.42380031744446 
+            text = "cananIma" 
+        intervals [50]:
+            xmin = 174.42380031744446 
+            xmax = 176.82380031744444 
+            text = "_SAZ_" 
+        intervals [51]:
+            xmin = 176.82380031744444 
+            xmax = 178.3223377132984 
+            text = "Care " 
+        intervals [52]:
+            xmin = 178.3223377132984 
+            xmax = 182.36376347069117 
+            text = "bulunmaz bilirim " 
+        intervals [53]:
+            xmin = 182.36376347069117 
+            xmax = 185.29749646256914 
+            text = "yareme" 
+        intervals [54]:
+            xmin = 185.29749646256914 
+            xmax = 188.7077152326203 
+            text = "Care bulunmaz" 
+        intervals [55]:
+            xmin = 188.7077152326203 
+            xmax = 191.3260114981609 
+            text = " bilirim" 
+        intervals [56]:
+            xmin = 191.3260114981609 
+            xmax = 196.25756448978004 
+            text = " yareme" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 196.25756448978004 
+        xmax = 196.25756448978004 
+        intervals: size = 56 
+        intervals [1]:
+            xmin = -0 
+            xmax = 21.78634 
+            text = "" 
+        intervals [2]:
+            xmin = 21.78634 
+            xmax = 24.5720226898 
+            text = "olmaz ilaC" 
+        intervals [3]:
+            xmin = 24.5720226898 
+            xmax = 25.9636446721 
+            text = "sine" 
+        intervals [4]:
+            xmin = 25.9636446721 
+            xmax = 30.059355873 
+            text = "isadpareme" 
+        intervals [5]:
+            xmin = 30.059355873 
+            xmax = 32.84503856276007 
+            text = "olmaz ilaC" 
+        intervals [6]:
+            xmin = 32.84503856276007 
+            xmax = 34.23666054514798 
+            text = "sine " 
+        intervals [7]:
+            xmin = 34.23666054514798 
+            xmax = 39.126349206349204 
+            text = "isadpareme" 
+        intervals [8]:
+            xmin = 39.126349206349204 
+            xmax = 41.13960430967992 
+            text = "_SAZ_" 
+        intervals [9]:
+            xmin = 41.13960430967992 
+            xmax = 42.730909141869844 
+            text = "Care " 
+        intervals [10]:
+            xmin = 42.730909141869844 
+            xmax = 46.77233489926259 
+            text = "bulunmaz bilirim " 
+        intervals [11]:
+            xmin = 46.77233489926259 
+            xmax = 49.70606789114059 
+            text = "yareme" 
+        intervals [12]:
+            xmin = 49.70606789114059 
+            xmax = 51.05840883367028 
+            text = "Care " 
+        intervals [13]:
+            xmin = 51.05840883367028 
+            xmax = 55.17793476938718 
+            text = "bulunmaz bilirim " 
+        intervals [14]:
+            xmin = 55.17793476938718 
+            xmax = 58.169764036265306 
+            text = "yareme" 
+        intervals [15]:
+            xmin = 58.169764036265306 
+            xmax = 60.57976403626531 
+            text = "_SAZ_" 
+        intervals [16]:
+            xmin = 60.57976403626531 
+            xmax = 62.09660344308204 
+            text = "baksa" 
+        intervals [17]:
+            xmin = 62.09660344308204 
+            xmax = 66.37819672003945 
+            text = " tabiban I cihan" 
+        intervals [18]:
+            xmin = 66.37819672003945 
+            xmax = 69.19840349204762 
+            text = " Careme" 
+        intervals [19]:
+            xmin = 69.19840349204762 
+            xmax = 70.71524289886435 
+            text = "baksa" 
+        intervals [20]:
+            xmin = 70.71524289886435 
+            xmax = 74.99683617582176 
+            text = " tabiban I cihan" 
+        intervals [21]:
+            xmin = 74.99683617582176 
+            xmax = 77.80704294782993 
+            text = " Careme" 
+        intervals [22]:
+            xmin = 77.80704294782993 
+            xmax = 80.1922246312666 
+            text = "_SAZ_" 
+        intervals [23]:
+            xmin = 80.1922246312666 
+            xmax = 81.65319925854217 
+            text = "Care " 
+        intervals [24]:
+            xmin = 81.65319925854217 
+            xmax = 85.77117755164544 
+            text = "bulunmaz bilirim " 
+        intervals [25]:
+            xmin = 85.77117755164544 
+            xmax = 88.39073909295465 
+            text = "yareme" 
+        intervals [26]:
+            xmin = 88.39073909295465 
+            xmax = 89.80634910370075 
+            text = "Care" 
+        intervals [27]:
+            xmin = 89.80634910370075 
+            xmax = 93.95809748048052 
+            text = " bulunmaz bilirim " 
+        intervals [28]:
+            xmin = 93.95809748048052 
+            xmax = 98.34385007233026 
+            text = "yareme" 
+        intervals [29]:
+            xmin = 98.34385007233026 
+            xmax = 118.49491142855555 
+            text = "" 
+        intervals [30]:
+            xmin = 118.49491142855555 
+            xmax = 121.3954067357176 
+            text = "kaste diyor" 
+        intervals [31]:
+            xmin = 121.3954067357176 
+            xmax = 122.6302348246517 
+            text = "tiri" 
+        intervals [32]:
+            xmin = 122.6302348246517 
+            xmax = 126.84178217685488 
+            text = "mUjen canIma" 
+        intervals [33]:
+            xmin = 126.84178217685488 
+            xmax = 129.59745196741355 
+            text = "kaste diyor" 
+        intervals [34]:
+            xmin = 129.59745196741355 
+            xmax = 130.97710557295102 
+            text = "tiri" 
+        intervals [35]:
+            xmin = 130.97710557295102 
+            xmax = 135.1786529251542 
+            text = "mUjen canIma" 
+        intervals [36]:
+            xmin = 135.1786529251542 
+            xmax = 137.8686529251542 
+            text = "_SAZ_" 
+        intervals [37]:
+            xmin = 137.8686529251542 
+            xmax = 139.2776183955498 
+            text = "gOzle " 
+        intervals [38]:
+            xmin = 139.2776183955498 
+            xmax = 143.44236551410987 
+            text = "ri en son girecek" 
+        intervals [39]:
+            xmin = 143.44236551410987 
+            xmax = 146.3423490702789 
+            text = " kanIma" 
+        intervals [40]:
+            xmin = 146.3423490702789 
+            xmax = 149.06557893320579 
+            text = "gOzleri en " 
+        intervals [41]:
+            xmin = 149.06557893320579 
+            xmax = 151.89479385184163 
+            text = "son girecek " 
+        intervals [42]:
+            xmin = 151.89479385184163 
+            xmax = 154.64440600487865 
+            text = "kanIma" 
+        intervals [43]:
+            xmin = 154.64440600487865 
+            xmax = 157.29126063490477 
+            text = "_SAZ_" 
+        intervals [44]:
+            xmin = 157.29126063490477 
+            xmax = 160.34017935007168 
+            text = "Serhedemem " 
+        intervals [45]:
+            xmin = 160.34017935007168 
+            xmax = 162.25004488256658 
+            text = "halimi " 
+        intervals [46]:
+            xmin = 162.25004488256658 
+            xmax = 165.8625304761746 
+            text = "cananIma" 
+        intervals [47]:
+            xmin = 165.8625304761746 
+            xmax = 168.91144919134152 
+            text = "Serhedemem " 
+        intervals [48]:
+            xmin = 168.91144919134152 
+            xmax = 170.82131472383642 
+            text = "halimi " 
+        intervals [49]:
+            xmin = 170.82131472383642 
+            xmax = 174.42380031744446 
+            text = "cananIma" 
+        intervals [50]:
+            xmin = 174.42380031744446 
+            xmax = 176.82380031744444 
+            text = "_SAZ_" 
+        intervals [51]:
+            xmin = 176.82380031744444 
+            xmax = 178.3223377132984 
+            text = "Care " 
+        intervals [52]:
+            xmin = 178.3223377132984 
+            xmax = 182.36376347069117 
+            text = "bulunmaz bilirim " 
+        intervals [53]:
+            xmin = 182.36376347069117 
+            xmax = 185.29749646256914 
+            text = "yareme" 
+        intervals [54]:
+            xmin = 185.29749646256914 
+            xmax = 188.7077152326203 
+            text = "Care bulunmaz" 
+        intervals [55]:
+            xmin = 188.7077152326203 
+            xmax = 191.3260114981609 
+            text = " bilirim" 
+        intervals [56]:
+            xmin = 191.3260114981609 
+            xmax = 196.25756448978004 
+            text = " yareme" 
