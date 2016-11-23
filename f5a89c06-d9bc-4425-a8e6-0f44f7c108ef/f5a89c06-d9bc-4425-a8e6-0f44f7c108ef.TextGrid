@@ -14,10 +14,10 @@ item []:
         intervals: size = 8 
         intervals [1]:
             xmin = 0 
-            xmax = 12.310563845474427 
+            xmax = 11.998217888286213 
             text = "_SAZ_bakmIyorCeSmi siyahferyade_SAZ_" 
         intervals [2]:
-            xmin = 12.310563845474427 
+            xmin = 11.998217888286213 
             xmax = 23.6492120253 
             text = "bakmIyorCeSmi siyahferyade_SAZ_" 
         intervals [3]:
@@ -231,7 +231,7 @@ item []:
         intervals [12]:
             xmin = 21.3522029893 
             xmax = 23.6492120253 
-            text = "" 
+            text = "_SAZ_" 
         intervals [13]:
             xmin = 23.6492120253 
             xmax = 24.875321886696927 
