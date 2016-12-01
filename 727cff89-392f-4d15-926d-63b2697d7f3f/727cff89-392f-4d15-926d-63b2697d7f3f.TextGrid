@@ -46,10 +46,10 @@ item []:
             text = "" 
         intervals [9]:
             xmin = 92.83054474682861 
-            xmax = 101.8882410025364 
+            xmax = 102.61902639809492 
             text = "" 
         intervals [10]:
-            xmin = 101.8882410025364 
+            xmin = 102.61902639809492 
             xmax = 174.23162850283353 
             text = "" 
         intervals [11]:
@@ -65,7 +65,7 @@ item []:
         name = "phrases" 
         xmin = 0 
         xmax = 92.7985797595 
-        intervals: size = 52 
+        intervals: size = 53 
         intervals [1]:
             xmin = 0 
             xmax = 21.0440031645 
@@ -232,45 +232,49 @@ item []:
             text = "seviSelim" 
         intervals [42]:
             xmin = 99.19413705371163 
-            xmax = 101.8882410025364 
+            xmax = 101.917685739356 
             text = "can cana" 
         intervals [43]:
-            xmin = 101.8882410025364 
+            xmin = 101.917685739356 
+            xmax = 102.61902639809492 
+            text = "_SAZ_" 
+        intervals [44]:
+            xmin = 102.61902639809492 
             xmax = 174.23162850283353 
             text = "" 
-        intervals [44]:
+        intervals [45]:
             xmin = 174.23162850283353 
             xmax = 178.253196201993 
             text = "kumru gibi" 
-        intervals [45]:
+        intervals [46]:
             xmin = 178.253196201993 
             xmax = 180.6028867093821 
             text = "a canIm seviSelim" 
-        intervals [46]:
+        intervals [47]:
             xmin = 180.6028867093821 
             xmax = 183.0477164119548 
             text = "can cana" 
-        intervals [47]:
+        intervals [48]:
             xmin = 183.0477164119548 
             xmax = 184.57130593674648 
             text = "_SAZ_" 
-        intervals [48]:
+        intervals [49]:
             xmin = 184.57130593674648 
             xmax = 188.57319840015302 
             text = "kumru gibi" 
-        intervals [49]:
+        intervals [50]:
             xmin = 188.57319840015302 
             xmax = 188.98803714190538 
             text = "" 
-        intervals [50]:
+        intervals [51]:
             xmin = 188.98803714190538 
             xmax = 191.39743452994807 
             text = "a canIm seviSelim" 
-        intervals [51]:
+        intervals [52]:
             xmin = 191.39743452994807 
             xmax = 193.94056859808572 
             text = "can cana" 
-        intervals [52]:
+        intervals [53]:
             xmin = 193.94056859808572 
             xmax = 194 
             text = "_SAZ_" 
@@ -279,7 +283,7 @@ item []:
         name = "words" 
         xmin = 0 
         xmax = 92.7985797595 
-        intervals: size = 76 
+        intervals: size = 77 
         intervals [1]:
             xmin = 0 
             xmax = 21.0440031645 
@@ -510,77 +514,81 @@ item []:
             text = "can" 
         intervals [58]:
             xmin = 99.86655050699525 
-            xmax = 101.8882410025364 
+            xmax = 101.917685739356 
             text = "cana" 
         intervals [59]:
-            xmin = 101.8882410025364 
+            xmin = 101.917685739356 
+            xmax = 102.61902639809492 
+            text = "_SAZ_" 
+        intervals [60]:
+            xmin = 102.61902639809492 
             xmax = 174.23162850283353 
             text = "" 
-        intervals [60]:
+        intervals [61]:
             xmin = 174.23162850283353 
             xmax = 176.45296201037175 
             text = "kumru " 
-        intervals [61]:
+        intervals [62]:
             xmin = 176.45296201037175 
             xmax = 178.253196201993 
             text = "gibi" 
-        intervals [62]:
+        intervals [63]:
             xmin = 178.253196201993 
             xmax = 178.698484943713 
             text = "a " 
-        intervals [63]:
+        intervals [64]:
             xmin = 178.698484943713 
             xmax = 179.31961451247165 
             text = "canIm " 
-        intervals [64]:
+        intervals [65]:
             xmin = 179.31961451247165 
             xmax = 180.6028867093821 
             text = "seviSelim" 
-        intervals [65]:
+        intervals [66]:
             xmin = 180.6028867093821 
             xmax = 181.7377551020408 
             text = "can " 
-        intervals [66]:
+        intervals [67]:
             xmin = 181.7377551020408 
             xmax = 183.0477164119548 
             text = "cana" 
-        intervals [67]:
+        intervals [68]:
             xmin = 183.0477164119548 
             xmax = 184.57130593674648 
             text = "_SAZ_" 
-        intervals [68]:
+        intervals [69]:
             xmin = 184.57130593674648 
             xmax = 186.99632914529582 
             text = "kumru" 
-        intervals [69]:
+        intervals [70]:
             xmin = 186.99632914529582 
             xmax = 188.57319840015302 
             text = " gibi" 
-        intervals [70]:
+        intervals [71]:
             xmin = 188.57319840015302 
             xmax = 188.98803714190538 
             text = "" 
-        intervals [71]:
+        intervals [72]:
             xmin = 188.98803714190538 
             xmax = 189.40174795364774 
             text = "a " 
-        intervals [72]:
+        intervals [73]:
             xmin = 189.40174795364774 
             xmax = 189.9467573696145 
             text = "canIm " 
-        intervals [73]:
+        intervals [74]:
             xmin = 189.9467573696145 
             xmax = 191.39743452994807 
             text = "seviSelim" 
-        intervals [74]:
+        intervals [75]:
             xmin = 191.39743452994807 
             xmax = 192.05165011282432 
             text = "can " 
-        intervals [75]:
+        intervals [76]:
             xmin = 192.05165011282432 
             xmax = 193.94056859808572 
             text = "cana" 
-        intervals [76]:
+        intervals [77]:
             xmin = 193.94056859808572 
             xmax = 194 
             text = "_SAZ_" 
